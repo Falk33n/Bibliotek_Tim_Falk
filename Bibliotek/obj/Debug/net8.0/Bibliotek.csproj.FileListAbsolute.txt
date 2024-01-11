@@ -1,0 +1,14 @@
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\Bibliotek.AssemblyInfoInputs.cache
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\Bibliotek.AssemblyInfo.cs
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\Bibliotek.csproj.CoreCompileInputs.cache
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\bin\Debug\net8.0\Bibliotek.exe
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\bin\Debug\net8.0\Bibliotek.deps.json
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\bin\Debug\net8.0\Bibliotek.runtimeconfig.json
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\bin\Debug\net8.0\Bibliotek.dll
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\bin\Debug\net8.0\Bibliotek.pdb
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\Bibliotek.dll
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\refint\Bibliotek.dll
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\Bibliotek.pdb
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\Bibliotek.genruntimeconfig.cache
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\Bibliotek\obj\Debug\net8.0\ref\Bibliotek.dll
